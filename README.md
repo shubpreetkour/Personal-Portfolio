@@ -8,7 +8,7 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 <img width="450px;" src="](https://github.com/shubpreetkour/Protfolio/assets/172921349/a27fbd96-4d70-4e99-90f2-be18a6f8c835)"/>
 
 ## Table of Contents
-- [Introduction](#introduction)
+- [Introduction](#introduction).
 - [Features](#features)
 - [Technologies Used](#technologies-used)
 - [Installation](#installation)
