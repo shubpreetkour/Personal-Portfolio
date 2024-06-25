@@ -3,9 +3,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](protfolio-shub.netlify.app)
 ## Some Images:
-<img width="450px;" src="![Screenshot (133)](https://github.com/shubpreetkour/Protfolio/assets/172921349/56854672-5f57-4121-bbe9-35a0dc4ca300)"/>
-<img width="450px;" src="![Screenshot (134)](https://github.com/shubpreetkour/Protfolio/assets/172921349/d5d26744-1114-4a83-9a03-52270cde3937)"/>
-<img width="450px;" src="![Screenshot (135)](https://github.com/shubpreetkour/Protfolio/assets/172921349/a27fbd96-4d70-4e99-90f2-be18a6f8c835)"/>
+<img width="450px;" src="(https://github.com/shubpreetkour/Protfolio/assets/172921349/56854672-5f57-4121-bbe9-35a0dc4ca300)"/>
+<img width="450px;" src="(https://github.com/shubpreetkour/Protfolio/assets/172921349/d5d26744-1114-4a83-9a03-52270cde3937)"/>
+<img width="450px;" src="](https://github.com/shubpreetkour/Protfolio/assets/172921349/a27fbd96-4d70-4e99-90f2-be18a6f8c835)"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
