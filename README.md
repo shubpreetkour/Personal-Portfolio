@@ -3,13 +3,9 @@ Welcome to my portfolio! This project showcases my skills, projects, and experie
 
 ### Weblink: [Live Website](protfolio-shub.netlify.app)
 ## Some Images:
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/4774dc30-1c1c-4c6c-b23b-019f3481713e"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0a33349f-262d-4720-afed-7afc0dfd85a5"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/92f2622f-0a7f-444a-8f60-6edeae7508dd"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/0e984e85-cbd9-487b-bf91-166009b39319"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/6ad7b63b-4c51-4c98-bd21-847e5d48d559"/>
-<img width="450px;" src="https://github.com/rishavchanda/rishav-chanda-portfolio/assets/64485885/10647898-7154-434c-84e6-edee6679ca92"/>
-
+<img width="450px;" src="![Screenshot (133)](https://github.com/shubpreetkour/Protfolio/assets/172921349/56854672-5f57-4121-bbe9-35a0dc4ca300)"/>
+<img width="450px;" src="![Screenshot (134)](https://github.com/shubpreetkour/Protfolio/assets/172921349/d5d26744-1114-4a83-9a03-52270cde3937)"/>
+<img width="450px;" src="![Screenshot (135)](https://github.com/shubpreetkour/Protfolio/assets/172921349/a27fbd96-4d70-4e99-90f2-be18a6f8c835)"/>
 
 ## Table of Contents
 - [Introduction](#introduction)
